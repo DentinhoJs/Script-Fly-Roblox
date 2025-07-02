@@ -11,7 +11,7 @@ Script simples e direto pra voar no Roblox.
 2. Cole o seguinte código no executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DentinhoJs/Script-Fly-Roblox/main/Script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DentinhoJs/Script-Fly-Roblox/main/Script.lua"))()---
 
 # Open Source atualize como quiser
 DentinhoJs
